@@ -1,0 +1,22 @@
+#navbar {
+  background-color: rgb(245, 245, 245);
+  border: none;
+  box-shadow: none;
+}
+
+.ui.dropdown.fitted.item {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#mainmenu {
+  border: none;
+  box-shadow: none;
+}
+
+.grey-background {
+  background-color: #292929;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
