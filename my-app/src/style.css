@@ -1,4 +1,4 @@
-#navbar {
+.ui.menu.topMenu {
   background-color: rgb(245, 245, 245);
   border: none;
   box-shadow: none;
@@ -9,9 +9,10 @@
   margin-right: 20px;
 }
 
-#mainmenu {
+.ui.menu.mainMenu {
   border: none;
   box-shadow: none;
+  margin-left: 410px;
 }
 
 .grey-background {
@@ -20,3 +21,9 @@
   padding-bottom: 20px;
   color: white;
 }
+
+.ui.input .label {
+  background-color: black;
+  color: rgb(245, 245, 245);
+}
+
